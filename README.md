@@ -1,2 +1,2 @@
 # RL
-learning reinforcement learning and record some codes,thoughts etc.
+studying reinforcement learning and record some codes,thoughts etc.
